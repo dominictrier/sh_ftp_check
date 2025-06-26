@@ -10,8 +10,6 @@
 # tools wget and wput are required (on macos wget and wput can be installed
 # via Homebrew (https://brew.sh/) )
 
-# Last Modified Tue, 01.04.2019 by Dominic (dominic.trier@gmail.com)
-
 # define variables
 lfn="wpuget.log.txt"                # Logfile Name
 lfloc="$HOME/Desktop/"              # Logfile Location

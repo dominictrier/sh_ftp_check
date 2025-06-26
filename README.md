@@ -102,10 +102,6 @@ Press `Ctrl+C` to stop the monitoring script.
 - **v1.0**: Initial version with basic upload/download speed testing
 - **v1.2**: Added function to check and remove stuck temporary files
 
-## Author
-
-Last Modified: Tue, 01.04.2019 by Dominic (dominic.trier@gmail.com)
-
 ## License
 
 This project is open source. Feel free to modify and distribute as needed.
